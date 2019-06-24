@@ -124,9 +124,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Ryan Barnett
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/RyanDBarnett/mod4-node-server-prework)
+* [Annotated Express server file](https://github.com/RyanDBarnett/backend-trapper-keeper)
+* [Promise Practice Exercises](https://repl.it/@RyanBarnett1/m4-prework-promises)
 
 ## Saad Baradan
 
